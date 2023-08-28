@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **fagun.ray@gmail.com**
 
-- 👨‍💻 Check out my 3D portfolio at [https://portfolio-tau-swart-70.vercel.app/](https://portfolio-tau-swart-70.vercel.app/)
+- 👨‍💻 Check out my 3D portfolio at [Portfolio](https://portfolio-tau-swart-70.vercel.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
