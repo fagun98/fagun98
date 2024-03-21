@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Fagun Raithatha</h1>
 <h3 align="center">Cracking code and breaking barriers - a passionate full-stack dev from Indianapolis.</h3>
 
-- 🌱 I’m currently learning **NextJS and Tableau**
+- 🌱 I’m working on **RAG** and **LLM Models**
 
 - 📫 How to reach me **fagun.ray@gmail.com**
 
