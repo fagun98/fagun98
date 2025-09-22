@@ -61,7 +61,7 @@ AI system automating 400+ healthcare reimbursement policies every quarter:
 ### 🎨 Beyond Work  
 When I’m not coding or experimenting with AI pipelines:  
 - 📚 I enjoy **breaking down AI research into everyday language** for broader accessibility  
-- ✈️ Love exploring new cities & cultures (next stop: **London** 🇬🇧)  
+- ✈️ Love exploring new cities & cultures  
 - 🎮 Casual gamer, coffee enthusiast ☕, and big fan of productivity hacks  
 - ⚙️ Always tinkering with **automation tools like n8n** to make life easier and workflows smarter  
 
